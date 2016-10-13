@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8F092486687841FF15BE2AB564252731E81D1164",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8F092486687841FF15BE2AB564252731E81D1164" : 0,
+    "F0F11FF65C949783C2721AFF84D774ED651BD064" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "90DA1271-ED4A-4ABD-B428-BA461EE9460B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8F092486687841FF15BE2AB564252731E81D1164" : "ATMusic\/",
+    "F0F11FF65C949783C2721AFF84D774ED651BD064" : "ATMusic\/ATMusic.xcodeproj\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ATMusic",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ATMusic.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Hoaa\/ATMusic.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8F092486687841FF15BE2AB564252731E81D1164"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Hoaa\/ATMusic.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F0F11FF65C949783C2721AFF84D774ED651BD064"
+    }
+  ]
+}
